@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: go-proxy-bingai
+    name: bingchat001
     # oregon: frankfurt
     plan: free
     env: go
